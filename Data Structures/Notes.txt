@@ -1,0 +1,10 @@
+Vehicle Language : C
+	
+	Data Structuring 
+		----- DATA TYPE, OPERATIONS
+		----- DATA-PPROCEDURE ENCAPSULATION
+		----- DYNAMIC DATA STRUCTURING
+
+	Algorithm Expression
+		----- CONTROL STRUCTURES
+		----- FUNCTIONS, RECURSIVE FUNCTIONS (A function that call itself)
