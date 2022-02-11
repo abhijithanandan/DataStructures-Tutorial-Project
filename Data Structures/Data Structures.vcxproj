@@ -139,6 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Introduction\Factorial.cpp" />
+    <ClCompile Include="Introduction\GCD.cpp" />
     <ClCompile Include="Introduction\Intro.cpp" />
     <ClCompile Include="Introduction\Roots.cpp" />
     <ClCompile Include="Main.cpp" />
@@ -147,6 +149,8 @@
     <Text Include="Notes.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Introduction\Factorial.h" />
+    <ClInclude Include="Introduction\GCD.h" />
     <ClInclude Include="Introduction\Roots.h" />
     <ClInclude Include="Main.h" />
     <ClInclude Include="Introduction\Intro.h" />

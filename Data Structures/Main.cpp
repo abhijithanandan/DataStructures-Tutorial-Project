@@ -8,6 +8,9 @@
 int main() 
 {
 	//Intro intro;
-	Roots roots;
+	//Roots roots;
+	//GCD gcd;
+	Factorial fact;
+
 	std::cin.get();
 }

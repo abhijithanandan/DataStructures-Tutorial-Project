@@ -8,3 +8,13 @@ Vehicle Language : C
 	Algorithm Expression
 		----- CONTROL STRUCTURES
 		----- FUNCTIONS, RECURSIVE FUNCTIONS (A function that call itself)
+
+	Functions
+		----- Subrouties are same as functions in C
+		----- When we pass args to a fuction, the function parameters within the funciton are new vaiables
+		----- So if we need the acutal values of the agruments to be modified then we should pass them by reference.
+		----- There are two segments for each function: 
+			----- CODE SEGMENT 
+			----- DATA SEGMENT
+		----- To see how functions vaibles are dynamically allocated on the stack from the CODE SEGMENT, check Intordution/Funcitons-Data-Stacking.png
+		----- There are certain vaibales in C which exist in the CODE SEGMENT rather than DATA SEGMENT
