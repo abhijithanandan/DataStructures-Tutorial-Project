@@ -10,7 +10,8 @@ int main()
 	//Intro intro;
 	//Roots roots;
 	//GCD gcd;
-	Factorial fact;
+	//Factorial fact;
+	MaxnMin minnmax;
 
 	std::cin.get();
 }

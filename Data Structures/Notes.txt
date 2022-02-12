@@ -18,3 +18,6 @@ Vehicle Language : C
 			----- DATA SEGMENT
 		----- To see how functions vaibles are dynamically allocated on the stack from the CODE SEGMENT, check Intordution/Funcitons-Data-Stacking.png
 		----- There are certain vaibales in C which exist in the CODE SEGMENT rather than DATA SEGMENT
+		----- Check Introduction/Factorial.cpp for understanding recursive function calls and inductive approach 
+		----- Check Introducton/Recursive-Induction-Functions.png to see how the memory works in inductive approach
+
