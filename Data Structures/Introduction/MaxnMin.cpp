@@ -14,7 +14,7 @@ MaxnMin::MaxnMin()
 	{
 		scanf_s("%d", &numb);
 		if (numb > max) max = numb;
-		if (numb < min) min = numb;
+		else if (numb < min) min = numb;
 	}
 
 	printf("MAX = %d, MIN = %d \n", max, min);
