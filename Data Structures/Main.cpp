@@ -11,7 +11,9 @@ int main()
 	//Roots roots;
 	//GCD gcd;
 	//Factorial fact;
-	MaxnMin minnmax;
+	 //Pointers pointer;
+	//MaxnMin minnmax;
+	Nextmax nextmax;
 
 	std::cin.get();
 }

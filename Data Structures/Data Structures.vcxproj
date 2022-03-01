@@ -143,8 +143,11 @@
     <ClCompile Include="Introduction\GCD.cpp" />
     <ClCompile Include="Introduction\Intro.cpp" />
     <ClCompile Include="Introduction\MaxnMin.cpp" />
+    <ClCompile Include="Introduction\Pointers.cpp" />
     <ClCompile Include="Introduction\Roots.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Introduction\Nextmax.cpp" />
+    <ClCompile Include="Tournament\NextmaxImproved.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="Notes.txt" />
@@ -153,9 +156,12 @@
     <ClInclude Include="Introduction\Factorial.h" />
     <ClInclude Include="Introduction\GCD.h" />
     <ClInclude Include="Introduction\MaxnMin.h" />
+    <ClInclude Include="Introduction\Pointers.h" />
     <ClInclude Include="Introduction\Roots.h" />
     <ClInclude Include="Main.h" />
     <ClInclude Include="Introduction\Intro.h" />
+    <ClInclude Include="Introduction\Nextmax.h" />
+    <ClInclude Include="Tournament\NextmaxImproved.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
