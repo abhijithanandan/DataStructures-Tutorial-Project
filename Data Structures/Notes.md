@@ -165,5 +165,13 @@ int Nextmax::maxi(int i, int j) {
 #### The tournament data stucture
 ---
 
-![](./Tournament/NextmaxImproved.png)
+![](./Tournament/NextmaxImproved1.png)
+
+- The tournament is a comparison tree
+- Finding the largest nubmer will take: 
+  - 3N/2 - 2 comparisons for even
+  - (3/2)N - 1 comparisons for odd
+- Finding the second largest number will take:
+  - ceil (log<sub>2</sub> n) : height of tree or length of longest path in the tree in worst case scenario
  
+![](./Tournament/NextmaxImproved2.png)

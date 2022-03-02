@@ -13,7 +13,8 @@ int main()
 	//Factorial fact;
 	 //Pointers pointer;
 	//MaxnMin minnmax;
-	Nextmax nextmax;
+	//Nextmax nextmax;
+	NextmaxImproved nextmaxi;
 
 	std::cin.get();
 }
