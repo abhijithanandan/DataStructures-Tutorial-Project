@@ -14,7 +14,8 @@ int main()
 	 //Pointers pointer;
 	//MaxnMin minnmax;
 	//Nextmax nextmax;
-	NextmaxImproved nextmaxi;
+	//NextmaxImproved nextmaxi;
+	SortingTree sort;
 
 	std::cin.get();
 }

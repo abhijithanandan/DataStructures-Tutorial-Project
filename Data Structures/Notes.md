@@ -175,3 +175,14 @@ int Nextmax::maxi(int i, int j) {
   - ceil (log<sub>2</sub> n) : height of tree or length of longest path in the tree in worst case scenario
  
 ![](./Tournament/NextmaxImproved2.png)
+![](./Tournament/NextmaxImproved3.png)
+![](./Tournament/NextmaxImproved4.png)
+
+#### Sorting
+
+- Traditional Bubble Sort or exchange sort
+![](./Sorting/Sorting1.png)
+- We can do the same with tournament data structure
+![](./Sorting/Sorting2.png)
+- There is a data structure called HEAP which is same as a binary comparison tree but with only N elements instead of 2N - 1 elements
+

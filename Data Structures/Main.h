@@ -8,3 +8,4 @@
 #include "./Introduction/MaxnMin.h"
 #include "./Introduction/Nextmax.h"
 #include "./Tournament/NextmaxImproved.h"
+#include "./Sorting/SortingTree.h"

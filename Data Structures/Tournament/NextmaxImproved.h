@@ -4,7 +4,7 @@ class NextmaxImproved
 public:
 	NextmaxImproved();
 	~NextmaxImproved();
-private:
+protected:
 	int buildtourn(int[], int);
 	int nextmax(int[], int);
 	int maxi(int, int);

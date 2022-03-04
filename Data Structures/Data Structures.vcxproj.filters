@@ -42,6 +42,9 @@
     <ClCompile Include="Tournament\NextmaxImproved.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Sorting\SortingTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Notes.txt">
@@ -74,6 +77,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Tournament\NextmaxImproved.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sorting\SortingTree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
