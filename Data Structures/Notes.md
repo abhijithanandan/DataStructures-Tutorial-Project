@@ -186,3 +186,31 @@ int Nextmax::maxi(int i, int j) {
 ![](./Sorting/Sorting2.png)
 - There is a data structure called HEAP which is same as a binary comparison tree but with only N elements instead of 2N - 1 elements
 
+### Problem Decomposition
+
+##### Factorial of a number
+
+```c
+int fact(n)
+{
+	int val;
+	if(n==1) val=1;
+	else val = n*fact(n-1);
+	return(val);
+}
+```
+- The above program is having an inductive solution. 
+- We have an inductive basis and inductive condition.
+![](./ProblemDecomposition/ProblemDecomposition1.png)
+![](./ProblemDecomposition/ProblemDecomposition2.png)
+
+#### Fibonacci Numbers
+
+![](./ProblemDecomposition/ProblemDecomposition3.png)
+
+#### Towers of Hanoi/Brahma
+
+![](./ProblemDecomposition/ProblemDecomposition4.png)
+![](./ProblemDecomposition/ProblemDecomposition5.png)
+![](./ProblemDecomposition/ProblemDecomposition6.png)
+
