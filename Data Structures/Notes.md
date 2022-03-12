@@ -213,4 +213,20 @@ int fact(n)
 ![](./ProblemDecomposition/ProblemDecomposition4.png)
 ![](./ProblemDecomposition/ProblemDecomposition5.png)
 ![](./ProblemDecomposition/ProblemDecomposition6.png)
+![](./ProblemDecomposition/ProblemDecomposition7.png)
+![](./ProblemDecomposition/ProblemDecomposition8.png)
 
+#### Sorting
+
+![](./ProblemDecomposition/ProblemDecomposition9.png)
+
+- A second way of decomposing the problem is through **Merge Sort**
+
+![](./ProblemDecomposition/ProblemDecomposition10.png)
+
+- Yet another method is called quicksort: 
+
+![](./ProblemDecomposition/ProblemDecomposition11.png)
+
+-  Problem decomposition and recomposition is called divide and conquer
+-  

@@ -147,6 +147,7 @@
     <ClCompile Include="Introduction\Roots.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Introduction\Nextmax.cpp" />
+    <ClCompile Include="Recursion\Fibonacci.cpp" />
     <ClCompile Include="Sorting\SortingTree.cpp" />
     <ClCompile Include="Tournament\NextmaxImproved.cpp" />
   </ItemGroup>
@@ -162,6 +163,7 @@
     <ClInclude Include="Main.h" />
     <ClInclude Include="Introduction\Intro.h" />
     <ClInclude Include="Introduction\Nextmax.h" />
+    <ClInclude Include="Recursion\Fibonacci.h" />
     <ClInclude Include="Sorting\SortingTree.h" />
     <ClInclude Include="Tournament\NextmaxImproved.h" />
   </ItemGroup>

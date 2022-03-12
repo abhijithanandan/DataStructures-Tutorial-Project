@@ -15,7 +15,10 @@ int main()
 	//MaxnMin minnmax;
 	//Nextmax nextmax;
 	//NextmaxImproved nextmaxi;
-	SortingTree sort;
+	//SortingTree sort;
+
+	Fibonacci fib;
+	fib.Run();
 
 	std::cin.get();
 }
