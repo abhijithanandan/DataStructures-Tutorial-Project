@@ -229,4 +229,3 @@ int fact(n)
 ![](./ProblemDecomposition/ProblemDecomposition11.png)
 
 -  Problem decomposition and recomposition is called divide and conquer
--  

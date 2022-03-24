@@ -17,8 +17,11 @@ int main()
 	//NextmaxImproved nextmaxi;
 	//SortingTree sort;
 
-	Fibonacci fib;
-	fib.Run();
+	//Fibonacci fib;
+	//fib.Run();
+
+	TowersOfHanoi tow;
+	tow.Run();
 
 	std::cin.get();
 }
