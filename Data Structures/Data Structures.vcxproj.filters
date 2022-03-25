@@ -51,6 +51,9 @@
     <ClCompile Include="Recursion\TowersOfHanoi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Characters and Strings\CharacterASCII.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Notes.txt">
@@ -92,6 +95,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Recursion\TowersOfHanoi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Characters and Strings\CharacterASCII.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

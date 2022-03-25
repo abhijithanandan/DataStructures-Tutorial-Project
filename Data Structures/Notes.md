@@ -224,8 +224,12 @@ int fact(n)
 
 ![](./ProblemDecomposition/ProblemDecomposition10.png)
 
-- Yet another method is called quicksort: 
+- Yet another method is called **quicksort**: 
 
 ![](./ProblemDecomposition/ProblemDecomposition11.png)
 
 -  Problem decomposition and recomposition is called divide and conquer
+
+### Chacters and Strings
+
+

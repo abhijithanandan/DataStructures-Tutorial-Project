@@ -19,9 +19,10 @@ int main()
 
 	//Fibonacci fib;
 	//fib.Run();
-
-	TowersOfHanoi tow;
-	tow.Run();
+	//TowersOfHanoi tow;
+	//tow.Run();
+	CharacterASCII chara;
+	chara.Run();
 
 	std::cin.get();
 }

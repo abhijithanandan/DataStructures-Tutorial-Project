@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Characters and Strings\CharacterASCII.cpp" />
     <ClCompile Include="Introduction\Factorial.cpp" />
     <ClCompile Include="Introduction\GCD.cpp" />
     <ClCompile Include="Introduction\Intro.cpp" />
@@ -156,6 +157,7 @@
     <Text Include="Notes.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Characters and Strings\CharacterASCII.h" />
     <ClInclude Include="Introduction\Factorial.h" />
     <ClInclude Include="Introduction\GCD.h" />
     <ClInclude Include="Introduction\MaxnMin.h" />
