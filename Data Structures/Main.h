@@ -12,3 +12,4 @@
 #include "./Recursion/Fibonacci.h"
 #include "./Recursion/TowersOfHanoi.h"
 #include "Characters and Strings/CharacterASCII.h"
+#include "Characters and Strings/String.h"

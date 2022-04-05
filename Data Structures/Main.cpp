@@ -21,8 +21,10 @@ int main()
 	//fib.Run();
 	//TowersOfHanoi tow;
 	//tow.Run();
-	CharacterASCII chara;
-	chara.Run();
+	//CharacterASCII chara;
+	//chara.Run();
+	String string;
+	string.Run();
 
 	std::cin.get();
 }

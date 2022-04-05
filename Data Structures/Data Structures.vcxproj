@@ -150,6 +150,7 @@
     <ClCompile Include="Introduction\Nextmax.cpp" />
     <ClCompile Include="Recursion\Fibonacci.cpp" />
     <ClCompile Include="Sorting\SortingTree.cpp" />
+    <ClCompile Include="Characters and Strings\String.cpp" />
     <ClCompile Include="Tournament\NextmaxImproved.cpp" />
     <ClCompile Include="Recursion\TowersOfHanoi.cpp" />
   </ItemGroup>
@@ -168,6 +169,7 @@
     <ClInclude Include="Introduction\Nextmax.h" />
     <ClInclude Include="Recursion\Fibonacci.h" />
     <ClInclude Include="Sorting\SortingTree.h" />
+    <ClInclude Include="Characters and Strings\String.h" />
     <ClInclude Include="Tournament\NextmaxImproved.h" />
     <ClInclude Include="Recursion\TowersOfHanoi.h" />
   </ItemGroup>

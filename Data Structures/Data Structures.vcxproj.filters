@@ -54,6 +54,9 @@
     <ClCompile Include="Characters and Strings\CharacterASCII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Characters and Strings\String.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Notes.txt">
@@ -98,6 +101,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Characters and Strings\CharacterASCII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Characters and Strings\String.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

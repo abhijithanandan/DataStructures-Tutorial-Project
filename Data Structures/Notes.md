@@ -230,6 +230,5 @@ int fact(n)
 
 -  Problem decomposition and recomposition is called divide and conquer
 
-### Chacters and Strings
 
 
