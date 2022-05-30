@@ -29,26 +29,26 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
@@ -151,6 +151,7 @@
     <ClCompile Include="Recursion\Fibonacci.cpp" />
     <ClCompile Include="Sorting\SortingTree.cpp" />
     <ClCompile Include="Characters and Strings\String.cpp" />
+    <ClCompile Include="Structures\Student.cpp" />
     <ClCompile Include="Tournament\NextmaxImproved.cpp" />
     <ClCompile Include="Recursion\TowersOfHanoi.cpp" />
   </ItemGroup>
@@ -170,6 +171,7 @@
     <ClInclude Include="Recursion\Fibonacci.h" />
     <ClInclude Include="Sorting\SortingTree.h" />
     <ClInclude Include="Characters and Strings\String.h" />
+    <ClInclude Include="Structures\Student.h" />
     <ClInclude Include="Tournament\NextmaxImproved.h" />
     <ClInclude Include="Recursion\TowersOfHanoi.h" />
   </ItemGroup>

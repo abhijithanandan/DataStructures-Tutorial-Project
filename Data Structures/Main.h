@@ -13,3 +13,4 @@
 #include "./Recursion/TowersOfHanoi.h"
 #include "Characters and Strings/CharacterASCII.h"
 #include "Characters and Strings/String.h"
+#include "Structures/Student.h"

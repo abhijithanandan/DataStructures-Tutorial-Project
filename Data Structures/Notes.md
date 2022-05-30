@@ -1,4 +1,4 @@
-### Notes for Data Structures and Programming Methodology in C
+﻿Ś### Notes for Data Structures and Programming Methodology in C
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 ---
 
@@ -230,5 +230,12 @@ int fact(n)
 
 -  Problem decomposition and recomposition is called divide and conquer
 
+#### Structures
+
+- We can define complex numer using arrays but then it needs two arrays
+- When we have multiple information stored together we can use the concept of "ENCAPSULATION"
+- ENCAPSULATION
+    - We define a capsule of information 
+	- The capsule can be repeated as an array just like we create an array of any primitive data type
 
 

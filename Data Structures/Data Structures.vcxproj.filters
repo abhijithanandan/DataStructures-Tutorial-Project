@@ -57,6 +57,9 @@
     <ClCompile Include="Characters and Strings\String.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Structures\Student.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Notes.txt">
@@ -104,6 +107,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Characters and Strings\String.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Structures\Student.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

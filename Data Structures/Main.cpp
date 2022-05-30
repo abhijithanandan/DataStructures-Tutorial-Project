@@ -23,8 +23,8 @@ int main()
 	//tow.Run();
 	//CharacterASCII chara;
 	//chara.Run();
-	String string;
-	string.Run();
+	//String string;
+	//string.Run();
 
 	std::cin.get();
 }
