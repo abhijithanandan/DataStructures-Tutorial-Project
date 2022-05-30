@@ -11,7 +11,7 @@ Student::~Student()
 
 void Student::Run()
 {
-	struct StudentInfo
+	struct
 	{
 		char name[25];
 		char roll_no[8];

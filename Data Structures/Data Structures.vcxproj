@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Characters and Strings\CharacterASCII.cpp" />
+    <ClCompile Include="Structures\ComplexNumber.cpp" />
     <ClCompile Include="Introduction\Factorial.cpp" />
     <ClCompile Include="Introduction\GCD.cpp" />
     <ClCompile Include="Introduction\Intro.cpp" />
@@ -171,6 +172,7 @@
     <ClInclude Include="Recursion\Fibonacci.h" />
     <ClInclude Include="Sorting\SortingTree.h" />
     <ClInclude Include="Characters and Strings\String.h" />
+    <ClInclude Include="Structures\ComplexNumber.h" />
     <ClInclude Include="Structures\Student.h" />
     <ClInclude Include="Tournament\NextmaxImproved.h" />
     <ClInclude Include="Recursion\TowersOfHanoi.h" />

@@ -1,4 +1,4 @@
-﻿Ś### Notes for Data Structures and Programming Methodology in C
+﻿### Notes for Data Structures and Programming Methodology in C
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 ---
 
@@ -237,5 +237,41 @@ int fact(n)
 - ENCAPSULATION
     - We define a capsule of information 
 	- The capsule can be repeated as an array just like we create an array of any primitive data type
+- We can define struct in different ways
 
+```c
+	struct
+	{
+		char name[25];
+		char roll_no[8];
+		float sgpa[8];
+		float cgpa[8];
+	} stud1;
 
+	struct student_record
+	{
+		char name[25];
+		char roll_no[8];
+		float sgpa[8];
+		float cgpa[8];
+	};
+
+	struct student_record stud1, stud2, stud3;
+
+	struct student_record student[200];
+
+	typedef struct
+	{
+		char name[25];
+		char roll_no[8];
+		float sgpa[8];
+		float cgpa[8];
+	} stud_record;
+
+	stud_record stud1, stud2, stud3;
+
+	stud_record student[200];
+```
+- Structures can be nested. 
+- We should avoid self referencing when nesting structures in static allocation
+-  
