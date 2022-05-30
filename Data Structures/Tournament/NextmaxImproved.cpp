@@ -46,6 +46,7 @@ int NextmaxImproved::nextmax(int tourn[], int n)
 		}
 		return(next);
 	}
+	return 0;
 }
 
 int NextmaxImproved::maxi(int a, int b) {

@@ -10,8 +10,8 @@ class ComplexNumber
 public:
 	ComplexNumber();
 	~ComplexNumber();
-protected:
 	void Run();
+protected:
 	complex add_complex(complex, complex);
 	void read_complex(complex*);
 	void write_complex(complex);

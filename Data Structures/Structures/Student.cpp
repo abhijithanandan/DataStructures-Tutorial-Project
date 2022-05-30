@@ -20,7 +20,7 @@ void Student::Run()
 	} stud1;
 
 	printf("Give the student name: \n");
-	scanf("%s", stud1.name); fflush(stdin);
+	scanf_s("%s", stud1.name); fflush(stdin);
 
 
 }

@@ -26,5 +26,8 @@ int main()
 	//String string;
 	//string.Run();
 
+	ComplexNumber cm;
+	cm.Run();
+
 	std::cin.get();
 }

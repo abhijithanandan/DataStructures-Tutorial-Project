@@ -274,4 +274,66 @@ int fact(n)
 ```
 - Structures can be nested. 
 - We should avoid self referencing when nesting structures in static allocation
--  
+
+### Dynamic Memory Allocation
+
+- If we need to allocate memory after reading in the data then we use dynamic allcation
+```c
+int *b;
+b = (int*)malloc(n*sizeof(int))
+```
+b will now point to array of "n" elements
+- Typecasting: Changing one type to the other
+
+```c
+int *b[5], i;
+for (i=0; i<4; i++) {
+	b[i] = (int*)malloc(10*sizeof(int));
+}
+```
+Here we get the following:
+```
+b = 2063807080
+(b+1) = 2063807084
+(b+2) = 2063807088
+*(b+2) = 1073754672
+*(b+2) + 2 = 1073754684
+```
+- The above code dynamically allocates a 2d array.
+-  We can alternately allocate memory the following way:
+```c
+int (*x)[10];
+x = (int(*)[])malloc(5*10*sizeof(int));
+```
+
+Here we get the following:
+
+```
+x = 1073754568
+(x+1) = 1073754608
+(x+2) = 1073754648
+*(x+2) = 1073754648
+*(x+2)+3 = 1073754660
+```
+- When we have a pointer to a struct we access the memory using arrow operator:
+```c
+	typedef struct
+	{
+		char name[25];
+		char roll_no[8];
+		float sgpa[8];
+		float cgpa[8];
+	} stud_record;
+
+	stud_record *stud1;
+
+	std::cout << stud1->name;
+	std::cout << stud1->roll_no;
+
+```
+- However if it is not a pointer we can use the dot operator
+
+## Linked Structures
+
+Read an element and then store the element as well as pointer to next element.
+

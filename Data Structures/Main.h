@@ -12,6 +12,6 @@
 #include "./Recursion/Fibonacci.h"
 #include "./Recursion/TowersOfHanoi.h"
 #include "Characters and Strings/CharacterASCII.h"
-#include "Characters and Strings/String.h"
-#include "Structures/Student.h"
+//#include "Characters and Strings/String.h"
+//#include "Structures/Student.h"
 #include "Structures/ComplexNumber.h"

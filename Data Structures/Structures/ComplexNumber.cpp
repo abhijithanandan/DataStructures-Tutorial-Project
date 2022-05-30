@@ -28,7 +28,7 @@ complex ComplexNumber::add_complex(complex x, complex y)
 }
 
 void ComplexNumber::read_complex(complex* x) {
-	scanf("%f%f", &(x->real), &(x->imag));
+	scanf_s("%f%f", &(x->real), &(x->imag));
 }
 
 void ComplexNumber::write_complex(complex x)
